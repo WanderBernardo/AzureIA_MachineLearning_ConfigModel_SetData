@@ -19,7 +19,11 @@ Objetivo é configurar o serviço de Machine Learning para ler a base de dados e
 
  - Ir para "Go to Resouce"
  - Clicar em "Launch studio"
+ - Abrirá uma pagina nova então selecionar o workspace criando anteriormente
+ - Clicar no botão "Automated ML"
+ - Selecionar o item "New automated job"
 
+   
 ### Detalhamento (Passo-a-passo): Configuração Machine Learning
 
 01 - Clicar no botão no final da tela: ``` Go to Resouce ```
@@ -38,6 +42,11 @@ Perceba que o Workspace que você criou no passo anterior (https://github.com/Wa
 
 Caso não apareça, então, clicar em "All workspaces" e selecionar o Workspaces que foi criado anteriormente.
 
+04 - Selecionar a item: ``` New Automated job ```
+
+![image](https://github.com/user-attachments/assets/72e0c092-6cfc-4e96-ac12-fbf0b052eeba)
+
+05 - 
 
 
 
