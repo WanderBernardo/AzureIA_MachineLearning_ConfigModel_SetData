@@ -136,4 +136,7 @@ Não saia da tela. Aguardar concluir:
 
 ![image](https://github.com/user-attachments/assets/cb740a01-b9ac-48ad-b1c8-60754a13a452)
 
+Status de concluído:
+
+![image](https://github.com/user-attachments/assets/05276488-a041-48bd-8313-d2f30ddc3da8)
 
