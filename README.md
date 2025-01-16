@@ -140,3 +140,6 @@ Status de concluído:
 
 ![image](https://github.com/user-attachments/assets/05276488-a041-48bd-8313-d2f30ddc3da8)
 
+### Próximo Passo
+
+https://github.com/WanderBernardo/AzureIA_MachineLearning_AnalysisTest
