@@ -4,6 +4,7 @@ Objetivo é configurar o serviço de Machine Learning para ler a base de dados e
 ### Ferramentas utilizadas:
 
 - Azure: https://azure.microsoft.com/pt-br/get-started/azure-portal/
+- Azure ML: https://ml.azure.com/
 - Serviço da Azure: ``` Azure Machine Learning ```
 
 ### Pontos Importantes:
