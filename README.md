@@ -132,4 +132,8 @@ Reforçando, que essa configuração é para o nosso exemplo. Cada caso, precisa
 
 ![image](https://github.com/user-attachments/assets/815ebc1a-cdd5-4832-a044-d96ebd143cbb)
 
+Não saia da tela. Aguardar concluir:
+
+![image](https://github.com/user-attachments/assets/cb740a01-b9ac-48ad-b1c8-60754a13a452)
+
 
