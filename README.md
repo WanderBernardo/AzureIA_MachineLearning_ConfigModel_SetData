@@ -62,7 +62,7 @@ Caso não apareça, então, clicar em "All workspaces" e selecionar o Workspaces
 06 - Preencher com os dados ``` Task type & data ```
    * Select task type: aqui que tipo de tarefa será realizado: uma regressão, classificação, entre outras. No nosso caso, será uma ``` Regressão ```
      
-    ![image](https://github.com/user-attachments/assets/2c261d31-77bc-41e6-b00d-763411e1439a)
+![image](https://github.com/user-attachments/assets/2c261d31-77bc-41e6-b00d-763411e1439a)
 
 07 - Na parte ``` Select data ``` , clicar no botão ``` Create ``` . Então, vai abrir uma tela para preencher, após preenchimento clicar em: ``` Next ```
    * Data type:
